@@ -12,7 +12,7 @@ static analysis was to examine the AndroGoat APK without executing the applicati
 The application supports outdated Android versions that contain known security vulnerabilities on Android OS.
 ![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Static%20analysis%20Screenshots/STAndroid%20manifest.png?raw=true)
 
-### Owasp Top 10 : M2: Inadequate Supply Chain Security
+## Owasp Top 10 : M2: Inadequate Supply Chain Security
 
 
 ### II. Finding Hardcoded Strings
