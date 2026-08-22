@@ -24,7 +24,7 @@ Locating embedded secrets, keys, and credentials in code.
 ![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Static%20analysis%20Screenshots/ST%20AWS%20ID.png?raw=true)
 #### AWS Credentials (ID & Password)
 
-
+## Owasp Top 10 : M1: Improper Credential Usage
 
 
 
