@@ -2,7 +2,9 @@
 
 ## 1. Objective
 
-static analysis was to examine the AndroGoat APK without executing the application.The assessment focused on identifying insecure configurations, permissions, hard-coded strings.
+The objective of dynamic analysis was to assess the AndroGoat APK while the application was running in a controlled Android environment.
+The testing focused on application behavior, runtime interactions, network communication, authentication, and security controls.
+The identified issues were validated and documented based on the OWASP Mobile Top 10
 
 ## 2. Tool used
 - Objection
