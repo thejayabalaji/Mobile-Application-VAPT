@@ -8,7 +8,7 @@ static analysis was to examine the AndroGoat APK without executing the applicati
 - Jadx
 
 ## 3. Execution
-AndroidManifest.xml Review
+###AndroidManifest.xml Review
 
 ![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Static%20analysis%20Screenshots/STAndroid%20manifest.png?raw=true)
 
