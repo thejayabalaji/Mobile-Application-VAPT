@@ -7,7 +7,7 @@ Android application. The assessment was performed in a controlled lab
 environment to identify, validate, and document mobile application security
 vulnerabilities.
 
-The assessment follows the OWASP Mobile Top 10 methodology.
+ - The assessment follows the OWASP Mobile Top 10 methodology.
 
 ---
 
