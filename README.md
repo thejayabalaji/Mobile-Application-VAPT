@@ -1,6 +1,6 @@
 # Android Mobile Application VAPT
 
-## 📌 Project Overview
+## Project Overview
 
 This project documents a security assessment of a deliberately vulnerable
 Android application. The assessment was performed in a controlled lab
@@ -11,7 +11,7 @@ The assessment follows the OWASP Mobile Top 10 methodology.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Perform static and dynamic analysis of the Android application
 - Assess authentication and authorization controls
@@ -22,16 +22,13 @@ The assessment follows the OWASP Mobile Top 10 methodology.
 
 ---
 
-## 🧪 Lab Environment
+## Lab Environment
 
 | Component | Details |
 |---|---|
-| Host OS | Windows 11 |
 | Testing OS | Kali Linux |
 | Target | Android Emulator |
-| Application | [Target App Name] |
-| Static Analysis | MobSF, APKTool |
-| Traffic Analysis | Burp Suite |
+| Application | Androgoat |
 | Device Interaction | ADB |
 
 ### Lab Architecture
@@ -40,7 +37,7 @@ The assessment follows the OWASP Mobile Top 10 methodology.
 
 ---
 
-## 🔧 Tools & Technologies
+## Tools & Technologies
 
 - Kali Linux
 - MobSF
@@ -52,7 +49,7 @@ The assessment follows the OWASP Mobile Top 10 methodology.
 
 ---
 
-## 🔍 Methodology
+## Methodology
 
 ```text
 Reconnaissance
