@@ -5,7 +5,7 @@
 static analysis was to examine the AndroGoat APK without executing the application.The assessment focused on identifying insecure configurations, permissions, hard-coded strings.
 
 ## 2. Tool used
-- Jadx
+- Jadx  (_To decompile the apk_)
 
 ## 3. Execution
 ### I. AndroidManifest.xml Review
