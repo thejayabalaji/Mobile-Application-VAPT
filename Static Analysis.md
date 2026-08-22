@@ -14,7 +14,7 @@ static analysis was to examine the AndroGoat APK without executing the applicati
 
 Reviewed AndroidManifest.xml to identify SDK versions, permissions, and application components.
 
-
+### Owasp Top 10 : M2: Inadequate Supply Chain Security
 
 
 
