@@ -26,44 +26,4 @@ Locating embedded secrets, keys, and credentials in code.
 
 ## Owasp Top 10 : M1: Improper Credential Usage
 
-
-
-## 3. MobSF Analysis
-
-MobSF was used to perform automated static analysis of the APK.
-
-![MobSF Dashboard](../screenshots/mobsf-dashboard.png)
-
-### Observations
-
-- ...
-- ...
-- ...
-
-## 4. AndroidManifest.xml Analysis
-
-The application manifest was reviewed for exported components,
-permissions, debuggable configuration, and other security-relevant settings.
-
-![Manifest Analysis](../screenshots/manifest.png)
-
-### Finding
-
-**Exported Activity**
-
-Description: ...
-
-Impact: ...
-
-## 5. Source/Code Analysis
-
-...
-
-## 6. Static Analysis Findings
-
-| ID | Finding | Severity | Status |
-|---|---|---|---|
-| STA-01 | ... | High | Confirmed |
-| STA-02 | ... | Medium | Confirmed |
-
 ## 7. Conclusion
