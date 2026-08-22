@@ -18,12 +18,12 @@ The application supports outdated Android versions that contain known security v
 ### II. Finding Hardcoded Strings
 Locating embedded secrets, keys, and credentials in code.
 ![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Static%20analysis%20Screenshots/STpromocode.png?raw=true)
-#### - Promocode
+- #### Promocode
 ![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Static%20analysis%20Screenshots/STopen%20api%20key.png?raw=true)
-#### - Open API Key
+- #### Open API Key
 ![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Static%20analysis%20Screenshots/ST%20AWS%20ID.png?raw=true)
-#### - AWS Credentials (ID & Password)
-...
+- #### AWS Credentials (ID & Password)
+
 ## Owasp Top 10 : M1: Improper Credential Usage
 
 
