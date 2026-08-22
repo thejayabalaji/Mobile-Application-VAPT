@@ -9,7 +9,7 @@ static analysis was to examine the AndroGoat APK without executing the applicati
 
 ## 3. Execution
 AndroidManifest.xml Review
-<<pic>>
+![image alt]([image_url](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Static%20analysis%20Screenshots/STAndroid%20manifest.png?raw=true))
 Reviewed AndroidManifest.xml to identify SDK versions, permissions, and application components.
 
 
