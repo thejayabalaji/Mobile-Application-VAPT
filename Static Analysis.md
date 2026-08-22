@@ -2,17 +2,10 @@
 
 ## 1. Objective
 
-The objective of static analysis was to examine the Android APK
-without executing the application and identify potential security issues.
+static analysis was to examine the AndroGoat APK without executing the application.The assessment focused on identifying insecure configurations, permissions, hard-coded strings.
 
-## 2. APK Information
-
-| Property | Value |
-|---|---|
-| Application | AndroGoat |
-| APK | androgoat.apk |
-| Package Name | ... |
-| Version | ... |
+## 2. Tool used
+- Jadx
 
 ## 3. MobSF Analysis
 
