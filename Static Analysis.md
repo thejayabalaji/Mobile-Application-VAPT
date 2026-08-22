@@ -7,6 +7,21 @@ static analysis was to examine the AndroGoat APK without executing the applicati
 ## 2. Tool used
 - Jadx
 
+## 3. Execution
+AndroidManifest.xml Review
+<<pic>>
+Reviewed AndroidManifest.xml to identify SDK versions, permissions, and application components.
+
+
+
+
+
+
+
+
+
+
+
 ## 3. MobSF Analysis
 
 MobSF was used to perform automated static analysis of the APK.
