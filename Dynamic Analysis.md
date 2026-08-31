@@ -12,3 +12,5 @@ The identified issues were validated and documented based on the OWASP Mobile To
 - Brup Suite
 
 ## 3. Execution
+### SSL Pinning
+- Installed Frida Server on the Android emulator and used Objection to bypass SSL pinning.
