@@ -14,3 +14,6 @@ The identified issues were validated and documented based on the OWASP Mobile To
 ## 3. Execution
 ### SSL Pinning
 - Installed Frida Server on the Android emulator and used Objection to bypass SSL pinning.
+![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Dynamic%20analysis/SSL%20pinning.png?raw=true)
+- Type [ssl pinning disable] to disable the SSL Pinning.
+![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Dynamic%20analysis/final%20andro.png?raw=true)
