@@ -17,5 +17,8 @@ The identified issues were validated and documented based on the OWASP Mobile To
 ![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Dynamic%20analysis/SSL%20pinning.png?raw=true)
 - Type [android sslpinning disable] to disable the SSL Pinning.
 ![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Dynamic%20analysis/final%20andro.png?raw=true)
+- The requested protocol is appear in Burp suite  
 
 ## Owasp Top 10 : M5: Insecure Communication
+
+### 2. Unprotected android components
