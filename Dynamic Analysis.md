@@ -22,4 +22,9 @@ The identified issues were validated and documented based on the OWASP Mobile To
 ### Owasp Top 10 : M5: Insecure Communication
 
 ## 2. Unprotected android components
+![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Dynamic%20analysis/2nd%20point.png?raw=true)
 ![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Dynamic%20analysis/2nd%20point%201.png?raw=true)
+![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Dynamic%20analysis/2nd%20point%202.png?raw=true)
+![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Dynamic%20analysis/2nd%20point%203.png?raw=true)
+
+### OWASP Top 10 : 
