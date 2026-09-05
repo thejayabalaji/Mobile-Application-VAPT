@@ -60,7 +60,7 @@ The identified issues were validated and documented based on the OWASP Mobile To
 
 ## 5. XSS (Cross Site Scripting)
 #### Applying XSS payloads in search bar
-#### <script>alert(‘XSS’)</script>
+#### <script>alert(‘XSS Injected’)</script>
 ![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Dynamic%20analysis/4XSS.png?raw=true)
 
 ### OWASP Top 10 : M4: Insufficient Input/Output Validation
