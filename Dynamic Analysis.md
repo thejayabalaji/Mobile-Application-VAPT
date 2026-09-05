@@ -22,15 +22,15 @@ The identified issues were validated and documented based on the OWASP Mobile To
 ### Owasp Top 10 : M5: Insecure Communication
 
 ## 2. Unprotected android components
-AndroGOAT presents a PIN entry screen. Normally, a user would have to enter the correct PIN to proceed to the protected content.
+#### AndroGOAT presents a PIN entry screen. Normally, a user would have to enter the correct PIN to proceed to the protected content.
 ![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Dynamic%20analysis/2nd%20point.png?raw=true)
-Check the log. Get the activity
+#### Check the log. Get the activity
 ![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Dynamic%20analysis/2nd%20point%201.png?raw=true)
-Instead of entering a PIN, use ADB to invoke the protected activity directly from the host machine’s terminal:
+#### Instead of entering a PIN, use ADB to invoke the protected activity directly from the host machine’s terminal:
 -- adb shell
 -- am start -n owasp.sat.agoat/.AccessControl1ViewActivity
 ![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Dynamic%20analysis/2nd%20point%202.png?raw=true)
-The protected activity launches directly on the emulator without requiring the PIN.
+#### The protected activity launches directly on the emulator without requiring the PIN.
 ![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Dynamic%20analysis/2nd%20point%203.png?raw=true)
 
 ### OWASP Top 10 : 
