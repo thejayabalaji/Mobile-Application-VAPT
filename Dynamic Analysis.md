@@ -28,3 +28,25 @@ The identified issues were validated and documented based on the OWASP Mobile To
 ![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Dynamic%20analysis/2nd%20point%203.png?raw=true)
 
 ### OWASP Top 10 : 
+
+## 3. Insecure Data Storage
+- Part 1
+![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Dynamic%20analysis/3rd%20p1.png?raw=true)
+![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Dynamic%20analysis/3rd%20p2.png?raw=true)
+- Part 2 (SQL Data storage)
+![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Dynamic%20analysis/3rd%20sql%20p1.png?raw=true)
+![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Dynamic%20analysis/3rd%20sql%20p2.png?raw=true)
+- Part 3 (Temporary Data Storage)
+![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Dynamic%20analysis/3rd%20temp.png?raw=true)
+
+### OWASP Top 10 :
+
+## 4. SQL Injection
+![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Dynamic%20analysis/4SQL%20Injection.png?raw=true)
+
+### OWASP Top 10 :
+
+## 5. XSS (Cross Site Scripting)
+![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Dynamic%20analysis/4XSS.png?raw=true)
+
+### OWASP Top 10 :
