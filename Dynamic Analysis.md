@@ -10,7 +10,9 @@ The identified issues were validated and documented based on the OWASP Mobile To
 - Objection
 - Frida
 - Brup Suite
+
 ---
+
 # Execution
 ## 1. SSL Pinning
 - Installed Frida Server on the Android emulator and used Objection to bypass SSL pinning.
@@ -20,6 +22,8 @@ The identified issues were validated and documented based on the OWASP Mobile To
 - The requested protocol is appear in Burp suite  
 
 ### Owasp Top 10 : M5: Insecure Communication
+
+---
 
 ## 2. Unprotected android components
 
@@ -38,6 +42,8 @@ am start -n owasp.sat.agoat/.AccessControl1ViewActivity
 
 ### OWASP Top 10 : M1: Improper Platform Usage
 
+---
+
 ## 3. Insecure Data Storage
 #### - Part 1
 ![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Dynamic%20analysis/3rd%20p1.png?raw=true)
@@ -53,6 +59,8 @@ am start -n owasp.sat.agoat/.AccessControl1ViewActivity
 
 ### OWASP Top 10 : M9: Insecure Data Storage
 
+---
+
 ## 4. SQL Injection
 #### Applying SQL payloads in search bar
 ```text
@@ -61,6 +69,8 @@ am start -n owasp.sat.agoat/.AccessControl1ViewActivity
 ![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Dynamic%20analysis/4SQL%20Injection.png?raw=true)
 
 ### OWASP Top 10 : M4: Insufficient Input/Output Validation
+
+---
 
 ## 5. XSS (Cross Site Scripting)
 #### Applying XSS payloads in search bar
