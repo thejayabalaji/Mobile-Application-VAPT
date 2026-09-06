@@ -55,14 +55,18 @@ am start -n owasp.sat.agoat/.AccessControl1ViewActivity
 
 ## 4. SQL Injection
 #### Applying SQL payloads in search bar
-#### ‘ or 1=1 --
+```text
+‘ or 1=1 --
+```
 ![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Dynamic%20analysis/4SQL%20Injection.png?raw=true)
 
 ### OWASP Top 10 : M4: Insufficient Input/Output Validation
 
 ## 5. XSS (Cross Site Scripting)
 #### Applying XSS payloads in search bar
-#### <script>alert(‘XSS Injected’)</script>
+```text
+<script>alert(‘XSS Injected’)</script>
+```
 ![image alt](https://github.com/thejayabalaji/Mobile-Application-VAPT/blob/main/Dynamic%20analysis/4XSS.png?raw=true)
 
 ### OWASP Top 10 : M4: Insufficient Input/Output Validation
