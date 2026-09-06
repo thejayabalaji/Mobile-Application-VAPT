@@ -27,7 +27,7 @@ vulnerabilities.
 | Component | Details |
 |---|---|
 | Testing OS | Kali Linux |
-| Target | Android Emulator |
+| Target | Android Emulator (genymotion) |
 | Application | Androgoat |
 | Device Interaction | ADB |
 
