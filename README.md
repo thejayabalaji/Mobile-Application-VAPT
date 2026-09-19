@@ -31,9 +31,6 @@ vulnerabilities.
 | Application | Androgoat |
 | Device Interaction | ADB |
 
-### Lab Architecture
-
-![Lab Architecture](01-Lab-Setup/architecture.png)
 
 ---
 
